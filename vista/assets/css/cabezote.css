@@ -1,0 +1,19 @@
+.cabezote{
+    background-color: black;
+    height: 56px;
+    width: 100%;
+    padding: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.icono{
+    font-size: 24px;
+    color: white;
+}
+
+._icono{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
