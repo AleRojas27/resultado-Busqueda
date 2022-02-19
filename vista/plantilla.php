@@ -17,7 +17,8 @@
 
 
     <link rel="stylesheet" href="vista/assets/css/cabezote.css">
-    <link rel="stylesheet" href="vista/assets/css/all.min.css">
+    <link rel="stylesheet" href="vista/assets/css/filtros.css">
+    
 
 
 
@@ -28,9 +29,10 @@
     <?php
     
     include "vista/modulos/cabezote.html.php";
+    include "vista/modulos/filtros.html.php";
 
     ?>
-
+    <script src="https://kit.fontawesome.com/9d23e270fa.js" crossorigin="anonymous"></script>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
